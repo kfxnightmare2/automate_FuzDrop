@@ -1,2 +1,2 @@
-# automate_FuzDrop
-This code automate the seaerch querry fo a FASTA file on website FuzDrop
+Usage of the code:
+python FuzDrop_V2.py name_of_the_FASTA_file
